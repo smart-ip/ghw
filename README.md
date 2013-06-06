@@ -13,8 +13,9 @@ ghw
 
 <b>Licensing</b>
 <p>We use the Creative Commons Attribution Non-Commercial CC BY-NC type of licence.  Further details are @ http://creativecommons.org/licenses/</p>
+
+<b>Contact details</b>
 <p>
-Contact details<br />
 Richard Kingston<br />
 University of Manchester, UK<br />
 richard.kingston@manchester.ac.uk
